@@ -13,5 +13,18 @@
     "@babel/core": "^7.18.13",
     "@babel/node": "^7.18.10",
     "@babel/preset-env": "^7.18.10"
-  }
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrak/Functional-Programming-Concepts-LinkedInLearning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/derrak/Functional-Programming-Concepts-LinkedInLearning/issues"
+  },
+  "homepage": "https://github.com/derrak/Functional-Programming-Concepts-LinkedInLearning#readme"
 }
